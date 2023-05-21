@@ -2,7 +2,7 @@
 
 ## 1 - Environment Set Up & Directory Structure:
 
-1. Download the entire content of this repository (https://github.com/gdgiangi/Emotion-and-Sentiment-Classification) onto your local machine. 
+1. Download the entire content of this repository onto your local machine. 
 2. Open terminal and CD the folder path that you downloaded the repository content into.
 3. Type 'jupyter notebook' and it should open a tab in browser with the file contents.
 4. Ensure Python 3.8 is running. 
